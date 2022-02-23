@@ -27,3 +27,10 @@ Day 4
 Date February 22.
 Programming Basics with JavaScript - First Steps In Programming - More Exercises
 01:20 hours of learning.
+
+---
+
+Day 5
+Date February 23.
+Programming Basics with JavaScript - First Steps In Programming - More Exercises
+01:25 hours of learning.
