@@ -5,7 +5,7 @@ Day 1
 Date February 19.
 I started to learn programming.
 I will use JS and try SoftUni curriculum.
-1 hour of learning.
+01:00 hour of learning.
 
 ---
 
@@ -41,3 +41,10 @@ Day 6
 Date February 24.
 Programming Basics with JavaScript - First Steps In Programming - Exams
 01:30 hours of learning.
+
+---
+
+Day 7
+Date February 25.
+Programming Basics with JavaScript - First Steps In Programming 
+00:30 hours of learning.
