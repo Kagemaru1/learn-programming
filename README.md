@@ -58,7 +58,16 @@ Programming Basics with JavaScript - First Steps In Programming
 
 ---
 
-Day 8
+Day 9
 Date March 1.
 Programming Basics with JavaScript - Book 
 02:35 hours of learning.
+
+---
+
+Day 10
+Date March 2.
+Programming Basics with JavaScript 
+- Conditional Statements - Lab - 7 of 7 Tasks
+- Conditional Statements - Exercise - 2 of 8 Tasks
+02:05 hours of learning.
