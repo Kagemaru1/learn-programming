@@ -55,3 +55,10 @@ Day 8
 Date February 28.
 Programming Basics with JavaScript - First Steps In Programming 
 01:05 hours of learning.
+
+---
+
+Day 8
+Date March 1.
+Programming Basics with JavaScript - Book 
+02:35 hours of learning.
