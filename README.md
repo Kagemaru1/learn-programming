@@ -74,3 +74,19 @@ Programming Basics with JavaScript
 - Conditional Statements - Lab - 7 of 7 Tasks
 - Conditional Statements - Exercise - 2 of 8 Tasks
 02:05 hours of learning.
+
+---
+
+Day 11
+Date March 3.
+Programming Basics with JavaScript 
+- Conditional Statements - Exercise - 4 of 8 Tasks
+00:25 hours of learning.
+
+---
+
+Day 12
+Date March 4.
+Programming Basics with JavaScript 
+- Video watching
+00:15 hours of learning.
