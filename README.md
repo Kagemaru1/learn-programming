@@ -104,5 +104,5 @@ Programming Basics with JavaScript
 Day 14
 Date March 6.
 Programming Basics with JavaScript 
-- Video watching
-00:15 hours of learning.
+- Conditional Statements - Exercise - 6 of 8 Tasks
+00:20 hours of learning.
