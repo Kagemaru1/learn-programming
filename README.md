@@ -90,3 +90,19 @@ Date March 4.
 Programming Basics with JavaScript 
 - Video watching
 00:15 hours of learning.
+
+---
+
+Day 13
+Date March 5.
+Programming Basics with JavaScript 
+- Video watching
+00:15 hours of learning.
+
+---
+
+Day 14
+Date March 6.
+Programming Basics with JavaScript 
+- Video watching
+00:15 hours of learning.
